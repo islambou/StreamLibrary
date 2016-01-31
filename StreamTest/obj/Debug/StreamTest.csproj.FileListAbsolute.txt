@@ -64,3 +64,5 @@ C:\Users\Anguis\Documents\GitHub\StreamLibrary\StreamTest\obj\Debug\StreamTest.P
 C:\Users\Anguis\Documents\GitHub\StreamLibrary\StreamTest\obj\Debug\StreamTest.csproj.GenerateResource.Cache
 C:\Users\Anguis\Documents\GitHub\StreamLibrary\bin\StreamTest.exe
 C:\Users\Anguis\Documents\GitHub\StreamLibrary\bin\StreamTest.pdb
+C:\Users\Dragonhunter\Documents\GitHub\StreamLibrary\StreamTest\obj\Debug\StreamTest.exe
+C:\Users\Dragonhunter\Documents\GitHub\StreamLibrary\StreamTest\obj\Debug\StreamTest.pdb
